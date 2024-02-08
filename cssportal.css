@@ -392,6 +392,8 @@ main{
         height: fit-content;
         display: grid;
         padding: 20px 40px;
+        row-gap: 10px;
+        margin-top: 10px;
         h2{
             width: 220px;
             background: linear-gradient(181deg, #2b51d7 10%, #2b51d7 30%, transparent 50%, transparent 55%, transparent 0%);
