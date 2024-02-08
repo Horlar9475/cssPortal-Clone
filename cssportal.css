@@ -594,6 +594,7 @@ main{
                 align-items: center;
                 justify-content: center;
                 padding: 10px 0px;
+                row-gap: 15px;
                 .parent-blog_content{
                     width: 100%;
                 }
